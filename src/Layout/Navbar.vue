@@ -12,7 +12,7 @@ import {
             <MenubarTrigger class="!text-2xl">Zatek</MenubarTrigger>
         </MenubarMenu>
         <MenubarMenu>
-            <MenubarTrigger class="!px-4 !py-2.5 text-md">Contact</MenubarTrigger>
+            <MenubarTrigger class="!px-4 !py-2.5 text-md bg-red-400 text-white">Contact</MenubarTrigger>
         </MenubarMenu>
     </Menubar>
 </template>
