@@ -5,8 +5,8 @@
             <p class="text-2xl text-gray-600"> Elevate your Business with AI Solutions from Zatek </p>
             <Button class="py-2.5 px-5 text-lg w-56 h-14 bg-red-400 mt-10 mb-2.5"> Contact </Button>
         </div>
-        <div class="px-10 py-25 grid grid-cols-1 lg:grid-cols-2 justify-center items-center 2xl:gap-40 xl:gap-32 gap-20">
-            <div class="gap-10 xl:gap-20 grid grid-cols-2 justify-center">
+        <div class="px-10 py-25 grid grid-cols-1 lg:grid-cols-2 items-center 2xl:gap-40 xl:gap-32 gap-20">
+            <div class="gap-10 xl:gap-20 flex justify-center lg:justify-end">
                 <div class="w-44">
                     <p class="text-5xl font-bold pb-2.5"> 50+</p>
                     <p class="text-xl text-gray-600">Global Partners</p>
@@ -16,7 +16,7 @@
                     <p class="text-xl text-gray-600 ">Retail Clients</p>
                 </div>
             </div>
-            <div class="pb-2.5">
+            <div class="pb-2.5 text-center lg:text-left">
                 <p class="text-6xl font-bold">Our Impressive <br /> Experience</p>
             </div>
         </div>
