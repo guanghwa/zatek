@@ -72,7 +72,15 @@
   * {
     @apply border-border;
   }
+
   body {
     @apply bg-background text-foreground;
   }
+}
+
+.bg-img {
+  background-image: linear-gradient(270deg, rgba(255, 222, 233, 0) 53.5%, rgb(245, 233, 235) 69.39999999999999%), linear-gradient(5deg, rgba(255, 255, 255, 0) 79.4%, rgb(245, 233, 235) 89.7%),
+  url('https://res.cloudinary.com/dbyioi2qq/image/upload/v1714331274/fcqjffvdnhuwhjrxp7jq.jpg');
+  background-position: 50% 50%;
+  background-size: cover;
 }
