@@ -46,6 +46,27 @@
                 </div>
             </div>
         </div>
+        <div class="px-4 py-12.5">
+            <p class="text-center text-6xl font-bold pb-5 ">Transform Your Business with Our AI Services</p>
+            <div class="grid grid-cols-1 xl:grid-cols-2 pt-12.5 gap-x-4 gap-y-10">
+                <div class="bg-gray-100 p-8 rounded-sm">
+                    <p class="text-2xl font-bold pb-2.5">Professional Expert Consultation Services</p>
+                    <p class="text-base">Receive customized guidance from our AI specialists to utilize technology for enhancing your business's expansion</p>
+                </div>
+                <div class="bg-gray-100 p-8 rounded-sm">
+                    <p class="text-2xl font-bold pb-2.5">Revolutionizing Product Innovation</p>
+                    <p class="text-base">Enhance your product development with our AI insights and integration services for cutting-edge solutions</p>
+                </div>
+                <div class="bg-gray-100 p-8 rounded-sm">
+                    <p class="text-2xl font-bold pb-2.5">Optimize and Revise Your Offerings</p>
+                    <p class="text-base">Harness AI to Infuse a Breath of Fresh Air into Your Products</p>
+                </div>
+                <div class="bg-gray-100 p-8 rounded-sm">
+                    <p class="text-2xl font-bold pb-2.5">Boost Your Online Presence</p>
+                    <p class="text-base">If you're not visible online or looking to enhance your internet presence, now's your chance.</p>
+                </div>
+            </div>
+        </div>
     </div>
 </template>
 <script setup lang="ts">
